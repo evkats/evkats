@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evkats
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 📫 How to reach me -- https://www.linkedin.com/in/evangelos-katsanos-1b5b72184/
 
 
